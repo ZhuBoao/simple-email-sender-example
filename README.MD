@@ -1,4 +1,4 @@
-##simple-email-sender-example
+## simple-email-sender-example
 
 This is a simple example for simple-email-sender.
 
